@@ -53,10 +53,10 @@ To install and run this project, follow these steps:
 The project includes several Jupyter notebooks that demonstrate the process of fine-tuning models, extracting highlights, and evaluating results.
 
 - Sentence-Level Extraction:
-      Navigate to the `Sentence-level` directory.
-      Navigate to the `Llama3` folder, open the `Llama3_fine_tuning_att1.ipynb` and `Llama3_fine_tuning_att2.ipynb` notebooks, and follow the instructions for fine-tuning Llama3.
-      Navigate to the `Open AI API` folder, open the `OpenAI_Fewshot.ipynb` and follow the instructions for prompting GPT4.5o.
-      Navigate to the `Scholracy` folder, open the `Scholracy_F1_test.ipynb`, and follow the instructions for the baseline evaluation.
+      - Navigate to the `Sentence-level` directory.
+      - Navigate to the `Llama3` folder, open the `Llama3_fine_tuning_att1.ipynb` and `Llama3_fine_tuning_att2.ipynb` notebooks, and follow the instructions for fine-tuning Llama3.
+      - Navigate to the `Open AI API` folder, open the `OpenAI_Fewshot.ipynb` and follow the instructions for prompting GPT4.5o.
+      - Navigate to the `Scholracy` folder, open the `Scholracy_F1_test.ipynb`, and follow the instructions for the baseline evaluation.
 
 - Segment-Level Extraction:
       Navigate to the `Segment-level` directory.
