@@ -62,16 +62,22 @@ The project includes several Jupyter notebooks that demonstrate the process of f
    Navigate to the `Scholracy` folder, open the `Scholracy_F1_test.ipynb`, and follow the instructions for the baseline evaluation.
 
 - Segment-Level Extraction:
-      Navigate to the `Segment-level` directory.
-      Navigate to the `T5` folder, open the `T5_fine_tuning.ipynb` notebook, and follow the instructions for fine-tuning T5.
-      Navigate to the `Llama 3 (playground test)` folder, open the `Groq_Llama_3_Playground_Rouge_test.ipynb` and follow the instructions for evaluating.
-      Navigate to the `Scholracy` folder, open the `Scholracy_Rouge_test.ipynb`, and follow the instructions for the baseline evaluation.
+   Navigate to the `Segment-level` directory.
+  
+   Navigate to the `T5` folder, open the `T5_fine_tuning.ipynb` notebook, and follow the instructions for fine-tuning T5.
+  
+   Navigate to the `Llama 3 (playground test)` folder, open the `Groq_Llama_3_Playground_Rouge_test.ipynb` and follow the instructions for evaluating.
+  
+   Navigate to the `Scholracy` folder, open the `Scholracy_Rouge_test.ipynb`, and follow the instructions for the baseline evaluation.
 
 - Word-Level Extraction:
-      Navigate to the `Word-level (IOB)` directory.
-      Navigate to the `Llama3` folder, open the `IOB_&_Llama3.ipynb` notebook, and follow the instructions for fine-tuning Llama3.
-      Navigate to the `LSTM` folder, open the `LSTM_IOB_classification.ipynb` and follow the instructions for defining LSTM models.
-      Navigate to the `CRF` folder, open the `CRF.ipynb`, and follow the instructions for the CRF evaluation.
+   Navigate to the `Word-level (IOB)` directory.
+  
+   Navigate to the `Llama3` folder, open the `IOB_&_Llama3.ipynb` notebook, and follow the instructions for fine-tuning Llama3.
+  
+   Navigate to the `LSTM` folder, open the `LSTM_IOB_classification.ipynb` and follow the instructions for defining LSTM models.
+  
+   Navigate to the `CRF` folder, open the `CRF.ipynb`, and follow the instructions for the CRF evaluation.
 
 ## API Key
 
